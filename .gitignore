@@ -18,3 +18,10 @@ authorized_chats.txt
 sudo_users.txt
 accounts/*
 cookies/*
+
+*.py[cod]
+.tmp/
+*.vectorized_metadata
+*.vectorized_content
+__pycache__
+.noteablekeep
