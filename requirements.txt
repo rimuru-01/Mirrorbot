@@ -3,6 +3,7 @@ anytree
 aria2p
 asgiref
 asyncio
+jekyll
 beautifulsoup4
 bencode.py
 bencoding
